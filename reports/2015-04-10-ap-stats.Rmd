@@ -1,26 +1,68 @@
 ---
 layout: page
-title: Antigen processing statistics
+title: Antigen processing on Google Scholar
 output: html_document
 ---
 
 This ended up being is as much about what scraping data from Google Scholar 
-can't do, as what it can. However, hopefully it is not completely uniformative.
+can't do, as what it can. However, hopefully it is not completely uninformative
+and provides a way into the literature for uninitiated.
 
-#### Motivation
+### Summary
 What follows was inspired by a blog post by Jeff Leek from 
 [Simply Statistics](http://simplystatistics.org/2015/01/16/if-you-were-going-to-write-a-paper-about-the-false-discovery-rate-you-should-have-done-it-in-2002/).
-I've just hacked his code to my own ends here, and you can find all the code for
-doing something similar on my [GitHub repo]().
+I've hacked his code to my own ends here, and you can find all the code for
+and raw data for doing something similar on my [GitHub repo](https://github.com/ab604/ap-stats).
 
+The aim was to get a sense of what has happened/is happening in the field of
+MHC class I antigen processing by scraping the top hits from Google Scholar for
+a collection of antigen processing related terms.
+[About Google Scholar](http://scholar.google.co.uk/intl/en/scholar/about.html)
+suggests Google Scholar is driven largely by citations.
 
+By examining when the most cited papers were published it provides a sense of
+when the key discoveries were made, and which topics are hot or cold. (Which 
+might be handy for choosing future work).
+
+**However** I also discovered that Google is very sensitive to the search terms and 
+whilst scraping the most cited papers is easy, they aren't necessarily the most
+relevant, especially where MHC I is concerned.
+
+If you are familiar with the field, the results may seem intuitive. Indeed you
+may be able to map your own career to the timings of the publications. Or you 
+may just be infuriated that I didn't find the papers you consider the most 
+important. :-)
+
+Below you can see what I did and what I found in the form of box-plots and some
+interactive tables.
+
+### Search terms used
+Initially I searched on 8 search terms for the **key players** in the MHC I 
+antigen processing pathway. These terms were:
+```{r,echo=FALSE,comment=""}
+load("../cache/ap.terms.RData")
+print(ap.terms,quote=FALSE)
+```
+
+And then I did a second round for **MHC I specific** search terms to split MHC I 
+papers into categories using the original search term, and then for paper to do 
+with structure, conformation change and peptide repertoire. These terms were:
+```{r,echo=FALSE,comment=""}
+load("../cache/mhc.terms.RData")
+print(mhc.terms,quote=FALSE)
+```
+
+### Boxplots of the search results
+Having performed the searches I've plotted the results as box-plots for the key
+players:
 
 ```{r, echo=FALSE}
 library(ggplot2)
-load("cache/plot.ap.RData")
-p2 <- ggplot(plot.mhc,aes(x=mhc.term_vec,y=mhc.pubyear_vec))
-
-p2 + geom_boxplot() +
+load("../cache/plot.ap.RData")
+# Create plot
+p1 <- ggplot(plot.ap,aes(x=ap.term_vec,y=ap.pubyear_vec)) +
+        # Apply aesthetics
+        geom_boxplot() +
         xlab("") +
         # Amend y-axis label
         ylab("Publication Year") +
@@ -28,19 +70,139 @@ p2 + geom_boxplot() +
         scale_y_continuous(breaks=seq(1980,2015,5)) +
         # Remove the legend title
         #theme(legend.title=element_blank()) +
-        # Add a plot titl
+        # Add a plot title
         ggtitle("Publication Year of First 30 Google Scholar Hits")
+
+print(p1)
 ```
 
+The median publication date for each category is:
 
-```{r,echo=FALSE}
-load("cache/ap.median.RData")
+```{r,echo=FALSE,comment=""}
+load("../cache/ap.median.RData")
 print(ap.median)
 ```
 
-ERAP1:
+And here's box-plot for the MHC I categories MHC I molecule, MHC I structure, 
+MHC I conformational change and MHC I peptide repertoire:
+
+```{r, echo=FALSE}
+library(ggplot2)
+load("../cache/plot.mhc.RData")
+plot.title <- bquote(atop('Publication Year of First 30 Google Scholar Hits' , 
+                          'for MHC I related search terms'))
+
+# Create plot
+p2 <- ggplot(plot.mhc,aes(x=mhc.term_vec,y=mhc.pubyear_vec)) +
+        # Apply aesthetics
+        geom_boxplot() +
+        xlab("") +
+        # Amend y-axis label
+        ylab("Publication Year") +
+        # Create yearly ticks 
+        scale_y_continuous(breaks=seq(1980,2015,5)) +
+        # Remove the legend title
+        #theme(legend.title=element_blank()) +
+        # Add a plot title
+        ggtitle(plot.title)
+
+print(p2)
+```
+
+With the median publication dates for these categories:
+
+
+```{r,echo=FALSE,comment=""}
+load("../cache/mhc.median.RData")
+print(mhc.median)
+```
+
+### Tables of the papers scraped for each search
+
+####ERAP1
+
 ```{r,echo=FALSE}
 library(DT)
-erapt <- read.table("src/eraptab.txt")
-datatable(erapt)
+erapt <- read.table("../src/eraptab.txt")
+datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+```
+
+####Tapasin
+
+```{r,echo=FALSE}
+library(DT)
+erapt <- read.table("../src/tpntab.txt")
+datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+```
+
+####MHC I molecule
+
+```{r,echo=FALSE}
+library(DT)
+erapt <- read.table("../src/moltab.txt")
+datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+```
+
+####Calreticulin
+
+```{r,echo=FALSE}
+library(DT)
+erapt <- read.table("../src/cartab.txt")
+datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+```
+
+####Erp57
+
+```{r,echo=FALSE}
+library(DT)
+erapt <- read.table("../src/erptab.txt")
+datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+```
+
+####Calnexin
+
+```{r,echo=FALSE}
+library(DT)
+erapt <- read.table("../src/clntab.txt")
+datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+```
+
+####TAPBPR
+
+```{r,echo=FALSE}
+library(DT)
+erapt <- read.table("../src/tprtab.txt")
+datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+```
+
+####UGGT
+
+```{r,echo=FALSE}
+library(DT)
+erapt <- read.table("../src/ugtab.txt")
+datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+```
+
+####MHC I structure
+
+```{r,echo=FALSE}
+library(DT)
+erapt <- read.table("../src/sructab.txt")
+datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+```
+
+####MHC I conformational change
+
+```{r,echo=FALSE}
+library(DT)
+erapt <- read.table("../src/conftab.txt")
+datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+```
+
+###MHC I peptide reportoire
+
+```{r,echo=FALSE}
+library(DT)
+erapt <- read.table("../src/peptab.txt")
+datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
 ```
