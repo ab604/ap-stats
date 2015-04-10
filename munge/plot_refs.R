@@ -1,89 +1,55 @@
+#  Make some boxplots
+# A.Bailey 10th April 2015
+library(ProjectTemplate)
+library(ggplot2)
+load("cache/plot.ap.RData")
+load("cache/plot.mhc.RData")
 # Plot AP data -----------------------------------------------------------------
 
-256
-# 
+# Open device
+png(file = "graphs/ap_boxplot.png", width = 800, height = 600, units = "px")
 
-257
-p1 <- ggplot(plot.ap,aes(x=ap.term_vec,y=ap.pubyear_vec))
+# Create plot
+p1 <- ggplot(plot.ap,aes(x=ap.term_vec,y=ap.pubyear_vec)) +
+        # Apply aesthetics
+        geom_boxplot() +
+        xlab("") +
+        # Amend y-axis label
+        ylab("Publication Year") +
+        # Create yearly ticks 
+        scale_y_continuous(breaks=seq(1980,2015,5)) +
+        # Remove the legend title
+        #theme(legend.title=element_blank()) +
+        # Add a plot title
+        ggtitle("Publication Year of First 30 Google Scholar Hits")
 
-258
-#p1 + geom_boxplot(aes(fill = factor(ap.term_vec))) +
+# Print plot
+print(p1)
 
-259
-p1 + geom_boxplot()+
-        
-        260
-#scale_fill_brewer(palette="Set1") +
+# Close connection
+dev.off()  
 
-261
-xlab("") +
-        
-        262
-# Amend y-axis label
-
-263
-ylab("Publication Year") +
-        
-        264
-# Create yearly ticks 
-
-265
-scale_y_continuous(breaks=seq(1980,2015,5)) +
-        
-        266
-# Remove the legend title
-
-267
-#theme(legend.title=element_blank()) +
-
-268
-# Add a plot titl
-
-269
-ggtitle("Publication Year of First 30 Google Scholar Hits")
-
-270
-
-271
 # Plot MHC data ----------------------------------------------------------------
+plot.title <- bquote(atop('Publication Year of First 30 Google Scholar Hits' , 
+                          'for MHC I related search terms'))
 
-272
+# Open device
+png(file = "graphs/mhc_boxplot.png", width = 800, height = 600, units = "px")
 
-273
-p2 <- ggplot(plot.mhc,aes(x=mhc.term_vec,y=mhc.pubyear_vec))
+# Create plot
+p2 <- ggplot(plot.mhc,aes(x=mhc.term_vec,y=mhc.pubyear_vec)) +
+        # Apply aesthetics
+        geom_boxplot() +
+        xlab("") +
+        # Amend y-axis label
+        ylab("Publication Year") +
+        # Create yearly ticks 
+        scale_y_continuous(breaks=seq(1980,2015,5)) +
+        # Add a plot title
+        ggtitle(plot.title)
 
-274
-#p2 + geom_boxplot(aes(fill = factor(mhc.term_vec))) +
+# Print plot
+print(p2)
 
-275
-p2 + geom_boxplot()+
-        
-        276
-#scale_fill_brewer(palette="Set1") +
-
-277
-xlab("") +
-        
-        278
-# Amend y-axis label
-
-279
-ylab("Publication Year") +
-        
-        280
-# Create yearly ticks 
-
-281
-scale_y_continuous(breaks=seq(1980,2015,5)) +
-        
-        282
-# Remove the legend title
-
-283
-#theme(legend.title=element_blank()) +
-
-284
-# Add a plot titl
-
-285
-ggtitle("Publication Year of First 30 Google Scholar Hits")
+# Close connection
+dev.off()  

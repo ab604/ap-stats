@@ -103,6 +103,7 @@ cache('ap.term_vec')
 cache('ap.median')
 cache('ap.pubyear_vec')
 cache('plot.ap')
+cache('ap.terms')
 
 ## Search for MHC I specific terms ---------------------------------------------
 mhc.terms <- c('intext:major histocompatibility complex class I molecule -II -III -polymerase -nonclassical',
@@ -146,3 +147,4 @@ cache('mhc.term_vec')
 cache('mhc.median')
 cache('mhc.pubyear_vec')
 cache('plot.mhc')
+cache('mhc.terms')
