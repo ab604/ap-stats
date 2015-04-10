@@ -1,0 +1,31 @@
+"First.Author"	"Title"	"Pub.Year"	"No.Cites"
+"1"	"O Schwartz"	"Endocytosis of major histocompatibility complex class I molecules is induced by the HIV 1 Nef protein"	1996	908
+"2"	"K Falk"	"Cellular peptide composition governed by major histocompatibility complex class I molecules"	1990	388
+"3"	"D Pende"	"Major Histocompatibility Complex Class I-related Chain A and UL16-Binding Protein Expression on Tumor Cell Lines of Different Histotypes Analysis of Tumor   "	2002	466
+"4"	"A Townsend"	" Association of class I major histocompatibility heavy and light chains induced by viral peptides"	1989	983
+"5"	"V Cerundolo"	"Presentation of viral antigen controlled by a gene in the major histocompatibility complex"	1990	369
+"6"	"EA Hughes"	"Misfolded major histocompatibility complex class I heavy chains are translocated into the cytoplasm and degraded by the proteasome"	1997	269
+"7"	"MH Furman"	"The human cytomegalovirus US10 gene product delays trafficking of major histocompatibility complex class I molecules"	2002	92
+"8"	"RE Brown"	"The major histocompatibility complex and the chemosensory recognition of individuality in rats"	1987	154
+"9"	"J Michaëlsson"	"Visualization of inhibitory Ly49 receptor specificity with soluble major histocompatibility complex class I tetramers"	2000	79
+"10"	"GM Van Bleek"	"The structure of the antigen-binding groove of major histocompatibility complex class I molecules determines specific selection of self-peptides"	1991	95
+"11"	"E Sadovnikova"	"Peptide-specific cytotoxic T lymphocytes restricted by nonself major histocompatibility complex class I molecules  reagents for tumor immunotherapy"	1996	113
+"12"	"MR Betts"	"Putative immunodominant human immunodeficiency virus-specific CD8+ T-cell responses cannot be predicted by major histocompatibility complex class I haplotype"	2000	173
+"13"	"W Held"	"Major histocompatibility complex class I dependent skewing of the natural killer cell Ly49 receptor reportoire"	1996	137
+"14"	"RP Machold"	"The HCMV gene products US11 and US2 differ in their ability to attack allelic forms of murine major histocompatibility complex  MHC  class I heavy chains"	1997	131
+"15"	"M Gaczynska"	"Peptidase activities of proteasomes are differentially regulated by the major histocompatibility complex-encoded genes for LMP2 and LMP7"	1994	273
+"16"	"C Semino"	"Role of major histocompatibility complex class I expression and natural killer-like T cells in the genetic control of endometriosis "	1995	58
+"17"	"AL Mellor"	"A nonpolymorphic class I gene in the murine major histocompatibility complex"	1984	156
+"18"	"SL Swain"	"Monoclonal antibody to L3T4 blocks the function of T cells specific for class 2 major histocompatibility complex antigens "	1984	153
+"19"	"RG Parton"	"Exploitation of major histocompatibility complex class I molecules and caveolae by simian virus 40"	1999	73
+"20"	"DI Watkins"	"Major histocompatibility complex class I molecules of nonhuman primates"	1988	67
+"21"	"GM Van Bleek"	"Isolation of an endogenously processed immunodominant viral peptide from the class IH 2Kb molecule"	1990	697
+"22"	"S Rajagopalan"	"Calnexin retains unassembled major histocompatibility complex class I free heavy chains in the endoplasmic reticulum "	1994	108
+"23"	"G Karpati"	"Expression of immunoreactive major histocompatibility complex products in human skeletal muscles"	1988	295
+"24"	"J Fangmann"	"T cell recognition of donor major histocompatibility complex class Ipeptides during allograft rejection"	1992	80
+"25"	"G Stuber"	"   mutant p53 peptides binding to HLA A2 assessed by a peptide loading deficient cell line assay and a novel major histocompatibility complex class I peptide binding   "	1994	70
+"26"	"MH Furman"	"Membrane-specific  host-derived factors are required for US2-and US11-mediated degradation of major histocompatibility complex class I molecules"	2002	80
+"27"	"M Haque"	"Major histocompatibility complex class I molecules are down-regulated at the cell surface by the K5 protein encoded by Kaposi s sarcoma-associated herpesvirus/  "	2001	67
+"28"	"I Correa"	"Multiple natural killer cell activating signals are inhibited by major histocompatibility complex class I expression in target cells"	1994	81
+"29"	"Y Zhang"	"Functions of ERp57 in the folding and assembly of major histocompatibility complex class I molecules"	2006	63
+"30"	"SN Khilko"	"Direct detection of major histocompatibility complex class I binding to antigenic peptides using surface plasmon resonance  Peptide immobilization and   "	1993	81

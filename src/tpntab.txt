@@ -1,0 +1,31 @@
+"First.Author"	"Title"	"Pub.Year"	"No.Cites"
+"1"	"B Sadasivan"	" Roles for calreticulin and a novel glycoprotein  tapasin  in the interaction of MHC class I molecules with TAP"	1996	640
+"2"	"B Ortmann"	"A critical role for tapasin in the assembly and function of multimeric MHC class I-TAP complexes"	1997	472
+"3"	"N Bangia"	"The N terminal region of tapasin is required to stabilize the MHC class I loading complex"	1999	172
+"4"	"PJ Lehner"	" Soluble tapasin restores MHC class I expression and function in the tapasin-negative cell line  220"	1998	288
+"5"	"AP Williams"	" Optimization of the MHC class I peptide cargo is dependent on tapasin"	2002	265
+"6"	"CA Peh"	" HLA-B27 restricted antigen presentation in the absence of tapasin reveals polymorphism in mechanisms of HLA class I peptide loading"	1998	229
+"7"	"N Garbi"	"Impaired immune responses and altered peptide repertoire in tapasin-deficient mice"	2000	190
+"8"	"VM Braud"	" TAP-and tapasin-dependent HLA-E surface expression correlates with the binding of an MHC class I leader peptide"	1998	196
+"9"	"AG Grandea"	" Impaired assembly yet normal trafficking of MHC class I molecules in Tapasin mutant mice"	2000	185
+"10"	"JC Solheim"	"Prominence of beta 2-microglobulin  class I heavy chain conformation  and tapasin in the interactions of class I heavy chain with calreticulin and the transporter   "	1997	140
+"11"	"M Howarth"	"Tapasin enhances MHC class I peptide presentation according to peptide half-life"	2004	137
+"12"	"PA Wearsch"	"Selective loading of high-affinity peptides onto major histocompatibility complex class I molecules by the tapasin-ERp57 heterodimer"	2007	144
+"13"	"AW Purcell"	"Quantitative and qualitative influences of tapasin on the class I peptide repertoire"	2001	143
+"14"	"G Dong"	" Insights into MHC class I peptide loading from the structure of the tapasin-ERp57 thiol oxidoreductase heterodimer"	2009	142
+"15"	"DR Peaper"	"Tapasin and ERp57 form a stable disulfide linked dimer within the MHC class I peptide loading complex"	2005	134
+"16"	"B Park"	" Human cytomegalovirus inhibits tapasin-dependent peptide loading and optimization of the MHC class I peptide cargo for immune evasion"	2004	130
+"17"	"GJ Schoenhals"	"Retention of empty MHC class I molecules by tapasin is essential to reconstitute antigen presentation in invertebrate cells"	1999	122
+"18"	"AG Grandea"	"Tapasin  an ER chaperone that controls MHC class I assembly with peptide"	2001	96
+"19"	"N Garbi"	" A major role for tapasin as a stabilizer of the TAP peptide transporter and consequences for MHC class I expression"	2003	108
+"20"	"P Tan"	"Recruitment of MHC class I molecules by tapasin into the transporter associated with antigen processing-associated complex is essential for optimal peptide loading"	2002	121
+"21"	"AG Grandea III"	"Regulation of MHC class I heterodimer stability and interaction with TAP by tapasin"	1997	100
+"22"	"F Momburg"	"Tapasin the keystone of the loading complex optimizing peptide binding by MHC class I molecules in the endoplasmic reticulum"	2002	119
+"23"	"MJ Barnden"	"Tapasin-mediated retention and optimization of peptide ligands during the assembly of class I molecules"	2000	101
+"24"	"AL Zarling"	"Tapasin is a facilitator  not an editor  of class I MHC peptide binding"	2003	97
+"25"	"B Park"	"A single polymorphic residue within the peptide-binding cleft of MHC class I molecules determines spectrum of tapasin dependence"	2003	90
+"26"	"JP Jacob"	"The major and a minor class II  -chain  B-LB  gene flank the Tapasin gene in the BF/BL region of the chicken major histocompatibility complex"	2000	85
+"27"	"JA Herberg"	" Genomic analysis of the Tapasin gene  located close to the TAP loci in the MHC"	1998	74
+"28"	"P Brocke"	"HLA-DM  HLA-DO and tapasin  functional similarities and differences"	2002	84
+"29"	"S Li"	"Tapasin is required for efficient peptide binding to transporter associated with antigen processing"	2000	76
+"30"	"WK Suh"	"Interaction of murine MHC class I molecules with tapasin and TAP enhances peptide loading and involves the heavy chain  3 domain"	1999	87

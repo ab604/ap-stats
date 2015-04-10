@@ -1,0 +1,31 @@
+"First.Author"	"Title"	"Pub.Year"	"No.Cites"
+"1"	"M Zacharias"	" Conformational flexibility of the MHC class I   1-  2 domain in peptide bound and free states  a molecular dynamics simulation study"	2004	72
+"2"	"JA Lindquist"	"ER 60  a chaperone with thiol dependent reductase activity involved in MHC class I assembly"	1998	228
+"3"	"KC Garcia"	"CD8 enhances formation of stable T-cell receptor/MHC class I molecule complexes"	1996	286
+"4"	"WR Lie"	"Peptide ligand-induced conformation and surface expression of the Ld class I MHC molecule"	1990	144
+"5"	"N Froloff"	"On the calculation of binding free energies using continuum methods  Application to MHC class I protein peptide interactions"	1997	211
+"6"	"GB Lipford"	"In vivo CTL induction with point-substituted ovalbumin peptides  immunogenicity correlates with peptide-induced MHC class I stability"	1995	49
+"7"	"I Correa"	" Binding of diverse peptides to MHC class I molecules inhibits target cell lysis by activated natural killer cells"	1995	168
+"8"	"JO Koopmann"	"Generation  intracellular transport and loading of peptides associated with MHC class I molecules"	1997	122
+"9"	"ET Spiliotis"	" Selective export of MHC class I molecules from the ER after their dissociation from TAP"	2000	112
+"10"	"PM Day"	" Effect of TAP on the generation and intracellular trafficking of peptide-receptive major histocompatibility complex class I molecules"	1995	77
+"11"	"K Natarajan"	"MHC class I molecules  structure and function "	1998	73
+"12"	"F Sieker"	"Differential tapasin dependence of MHC class I molecules correlates with conformational changes upon peptide dissociation  a molecular dynamics simulation study"	2008	27
+"13"	"JC Boyington"	"Crystal structure of an NK cell immunoglobulin-like receptor in complex with its class I MHC ligand"	2000	330
+"14"	"T Hansen"	"Structural features of MHC class I molecules that might facilitate alternative pathways of presentation"	2000	31
+"15"	"F Sieker"	" Comparative molecular dynamics analysis of tapasin dependent and independent MHC class I alleles"	2007	33
+"16"	"KM Paulsson"	"Association of tapasin and COPI provides a mechanism for the retrograde transport of major histocompatibility complex  MHC  class I molecules from the Golgi   "	2002	64
+"17"	"B Park"	"A single polymorphic residue within the peptide-binding cleft of MHC class I molecules determines spectrum of tapasin dependence"	2003	90
+"18"	"L Bene"	"Major histocompatibility complex class I protein conformation altered by transmembrane potential changes"	1997	22
+"19"	"D Gil"	"T cell receptor engagement by peptide MHC ligands induces a conformational change in the CD3 complex of thymocytes"	2005	97
+"20"	"BC Gil-Torregrosa"	"Generation of MHC class I peptide antigens by protein processing in the secretory route by furin"	2000	47
+"21"	"J D'Amaro"	"A computer program for predicting possible cytotoxic T lymphocyte epitopes based on HLA class I peptide-binding motifs"	1995	86
+"22"	"HR Turnquist"	"The interface between tapasin and MHC class I"	2002	23
+"23"	"GF Gao"	"Crystal structure of the complex between human CD8   and HLA-A2"	1997	423
+"24"	"A Townsend"	" Association of class I major histocompatibility heavy and light chains induced by viral peptides"	1989	983
+"25"	"JC Solheim - Immunological reviews"	"Class IMHC molecules  assembly and antigen presentation"	1999	95
+"26"	"G Vasmatzis"	"Computational determination of side chain specificity for pockets in class I MHC molecules"	1996	38
+"27"	"JS Lim"	"Selection of peptides that bind to the HLA-A2  1 molecule by molecular modelling"	1996	44
+"28"	"G Thor"	"Monoclonal antibody that distinguishes between a phosphorylated  beta 2-microglobulin-associated  and a free  nonphosphorylated  chain of MHC class I "	1993	14
+"29"	"M Gaczynska"	"Role of proteasomes in antigen presentation "	1992	66
+"30"	"AK Binz"	"Thermodynamic and kinetic analysis of a peptide-class I MHC interaction highlights the noncovalent nature and conformational dynamics of the class I heterotrimer"	2003	34

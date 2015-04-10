@@ -1,0 +1,31 @@
+"First.Author"	"Title"	"Pub.Year"	"No.Cites"
+"1"	"T Saric"	"An IFN-  induced aminopeptidase in the ER  ERAP1  trims precursors to MHC class I presented peptides"	2002	419
+"2"	"IA York"	"The ER aminopeptidase ERAP1 enhances or limits antigen presentation by trimming epitopes to 8 9 residues"	2002	389
+"3"	"L Saveanu"	"Concerted peptide trimming by human ERAP1 and ERAP2 aminopeptidase complexes in the endoplasmic reticulum"	2005	257
+"4"	"SC Chang"	"The ER aminopeptidase  ERAP1  trims precursors to lengths of MHC class I peptides by a  molecular ruler  mechanism"	2005	166
+"5"	"IA York"	"Endoplasmic reticulum aminopeptidase 1  ERAP1  trims MHC class I-presented peptides in vivo and plays an important role in immunodominance"	2006	114
+"6"	"G Kochan"	"Crystal structures of the endoplasmic reticulum aminopeptidase-1  ERAP1  reveal the molecular basis for N-terminal peptide trimming"	2011	81
+"7"	"TT Nguyen"	"Structural basis for antigenic peptide precursor processing by the endoplasmic reticulum aminopeptidase ERAP1"	2011	72
+"8"	"S Kim"	" Human cytomegalovirus microRNA miR-US4-1 inhibits CD8+ T cell responses by targeting the aminopeptidase ERAP1"	2011	71
+"9"	"D Fruci"	"Altered expression of endoplasmic reticulum aminopeptidases ERAP1 and ERAP2 in transformed non lymphoid human tissues"	2008	51
+"10"	"AM Mehta"	"Single nucleotide polymorphisms in antigen processing machinery component ERAP1 significantly associate with clinical outcome in cervical carcinoma"	2009	44
+"11"	"M Dougados"	"Spondyloarthritis"	2011	169
+"12"	"N Haroon"	" Endoplasmic reticulum aminopeptidase 1  ERAP1  exhibits functionally significant interaction with HLA-B27 and relates to subtype specificity in ankylosing   "	2012	30
+"13"	"T Tanioka"	"Human Leukocyte-derived Arginine Aminopeptidase The Third member of the oxytocinase subfamily of aminopeptidases"	2003	157
+"14"	"FWL Tsui"	"Association of an ERAP1 ERAP2 haplotype with familial ankylosing spondylitis"	2010	62
+"15"	"N Haroon"	"Serum cytokine receptors in ankylosing spondylitis  relationship to inflammatory markers and endoplasmic reticulum aminopeptidase polymorphisms"	2010	33
+"16"	"D Harvey"	"Investigating the genetic association between ERAP1 and ankylosing spondylitis"	2009	77
+"17"	"WP Maksymowych"	" Association of a specific ERAP1/ARTS1 haplotype with disease susceptibility in ankylosing spondylitis"	2009	84
+"18"	"N Haroon"	"Endoplasmic reticulum aminopeptidases  Biology and pathogenic potential"	2010	58
+"19"	"PM Kloetzel"	"Proteasome and peptidase function in MHC-class-I-mediated antigen presentation"	2004	336
+"20"	"I Evnouchidou"	"Cutting Edge  Coding single nucleotide polymorphisms of endoplasmic reticulum aminopeptidase 1 can affect antigenic peptide generation in vitro by influencing   "	2011	49
+"21"	"M Szczypiorska"	"ERAP1 polymorphisms and haplotypes are associated with ankylosing spondylitis susceptibility and functional severity in a Spanish population"	2011	27
+"22"	"I Evnouchidou"	" The internal sequence of the peptide-substrate determines its N-terminus trimming by ERAP1"	2008	49
+"23"	"A Gandhi"	" Structural insights into the molecular ruler mechanism of the endoplasmic reticulum aminopeptidase ERAP1"	2011	8
+"24"	"SI Davidson"	" Association of ERAP1  but not IL23R  with ankylosing spondylitis in a Han Chinese population"	2009	96
+"25"	"E Firat"	"The role of endoplasmic reticulum-associated aminopeptidase 1 in immunity to infection and in cross-presentation"	2007	73
+"26"	"DM Evans"	"Interaction between ERAP1 and HLA-B27 in ankylosing spondylitis implicates peptide handling in the mechanism for HLA-B27 in disease susceptibility"	2011	252
+"27"	"K Falk"	"The final cut  how ERAP1 trims MHC ligands to size"	2002	26
+"28"	"A Hattori"	" Aminopeptidases in Health and Disease"	2004	33
+"29"	"FR Guerini"	" A functional variant in ERAP1 predisposes to multiple sclerosis"	2012	28
+"30"	"EC Shin"	" Proteasome activator and antigen-processing aminopeptidases are regulated by virus-induced type I interferon in the hepatitis C virus-infected liver"	2007	29

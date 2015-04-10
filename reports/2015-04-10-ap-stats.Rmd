@@ -1,0 +1,46 @@
+---
+layout: page
+title: Antigen processing statistics
+output: html_document
+---
+
+This ended up being is as much about what scraping data from Google Scholar 
+can't do, as what it can. However, hopefully it is not completely uniformative.
+
+#### Motivation
+What follows was inspired by a blog post by Jeff Leek from 
+[Simply Statistics](http://simplystatistics.org/2015/01/16/if-you-were-going-to-write-a-paper-about-the-false-discovery-rate-you-should-have-done-it-in-2002/).
+I've just hacked his code to my own ends here, and you can find all the code for
+doing something similar on my [GitHub repo]().
+
+
+
+```{r, echo=FALSE}
+library(ggplot2)
+load("cache/plot.ap.RData")
+p2 <- ggplot(plot.mhc,aes(x=mhc.term_vec,y=mhc.pubyear_vec))
+
+p2 + geom_boxplot() +
+        xlab("") +
+        # Amend y-axis label
+        ylab("Publication Year") +
+        # Create yearly ticks 
+        scale_y_continuous(breaks=seq(1980,2015,5)) +
+        # Remove the legend title
+        #theme(legend.title=element_blank()) +
+        # Add a plot titl
+        ggtitle("Publication Year of First 30 Google Scholar Hits")
+```
+
+
+```{r,echo=FALSE}
+load("cache/ap.median.RData")
+print(ap.median)
+```
+
+ERAP1:
+```{r,echo=FALSE}
+library(DT)
+erapt <- read.table("src/eraptab.txt")
+datatable(erapt)
+```

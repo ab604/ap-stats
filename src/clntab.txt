@@ -1,0 +1,31 @@
+"First.Author"	"Title"	"Pub.Year"	"No.Cites"
+"1"	"WJ Ou"	"Association of folding intermediates of glycoproteins with calnexin during protein maturation "	1993	539
+"2"	"JJM Bergeron"	"Calnexin  a membrane-bound chaperone of the endoplasmic reticulum"	1994	505
+"3"	"DN Hebert"	" Glucose trimming and reglucosylation determine glycoprotein association with calnexin in the endoplasmic reticulum"	1995	492
+"4"	"MR Jackson"	"Regulation of MHC class I transport by the molecular chaperone  calnexin  p88  IP90 "	1994	259
+"5"	"C Hammond"	"Role of N-linked oligosaccharide recognition  glucose trimming  and calnexin in glycoprotein folding and quality control "	1994	677
+"6"	"S Rajagopalan"	"Retention of unassembled components of integral membrane proteins by calnexin"	1994	234
+"7"	"M Molinari"	"Role of EDEM in the release of misfolded glycoproteins from the calnexin cycle"	2003	407
+"8"	"Y Oda"	"EDEM as an acceptor of terminally misfolded glycoproteins released from calnexin"	2003	402
+"9"	"A Helenius"	"Calnexin  calreticulin and the folding of glycoproteins"	1997	385
+"10"	"C Hammond"	"Folding of VSV G protein  sequential interaction with BiP and calnexin"	1994	310
+"11"	"S Pind"	"Participation of the endoplasmic reticulum chaperone calnexin  p88  IP90  in the biogenesis of the cystic fibrosis transmembrane conductance regulator "	1994	366
+"12"	"FE Ware"	"The molecular chaperone calnexin binds Glc1Man9GlcNAc2 oligosaccharide as an initial step in recognizing unfolded glycoproteins"	1995	398
+"13"	"I Wada"	"SSR alpha and associated calnexin are major calcium binding proteins of the endoplasmic reticulum membrane "	1991	439
+"14"	"A Zapun"	"Enhanced catalysis of ribonuclease B folding by the interaction of calnexin or calreticulin with ERp57"	1998	312
+"15"	"AA McCracken"	"Assembly of ER-associated protein degradation in vitro  dependence on cytosol  calnexin  and ATP "	1996	362
+"16"	"JD Schrag"	" The structure of calnexin  an ER chaperone involved in quality control of protein folding"	2001	303
+"17"	"DB Williams - Journal of cell science"	"Beyond lectins  the calnexin/calreticulin chaperone system of the endoplasmic reticulum"	2006	290
+"18"	"JD Oliver"	"ERp57 functions as a subunit of specific complexes formed with the ER lectins calreticulin and calnexin"	1999	272
+"19"	"DN Hebert"	"Calnexin and calreticulin promote folding  delay oligomerization and suppress degradation of influenza hemagglutinin in microsomes "	1996	255
+"20"	"W Chen"	"Cotranslational folding and calnexin binding during glycoprotein synthesis"	1995	213
+"21"	"A Vassilakos"	"Oligosaccharide binding characteristics of the molecular chaperones calnexin and calreticulin"	1998	237
+"22"	"J Dubuisson"	"Hepatitis C virus glycoprotein folding  disulfide bond formation and association with calnexin "	1996	219
+"23"	"V David"	"   with newly synthesized and retained proteins in the endoplasmic reticulum suggests a chaperone function for human integral membrane protein IP90  calnexin  "	1993	210
+"24"	"U Tatu"	"Interactions between newly synthesized glycoproteins  calnexin and a network of resident chaperones in the endoplasmic reticulum"	1997	205
+"25"	"DN Hebert"	"The number and location of glycans on influenza hemagglutinin determine folding and association with calnexin and calreticulin"	1997	202
+"26"	"A Zapun"	" Conformation-independent binding of monoglucosylated ribonuclease B to calnexin"	1997	190
+"27"	"A Vassilakos"	"The molecular chaperone calnexin facilitates folding and assembly of class I histocompatibility molecules "	1996	190
+"28"	"PS Kim"	"Calnexin and BiP act as sequential molecular chaperones during thyroglobulin folding in the endoplasmic reticulum "	1995	181
+"29"	"MR Leach"	"Localization of the lectin  ERp57 binding  and polypeptide binding sites of calnexin and calreticulin"	2002	186
+"30"	"JX Zhang"	"Quality control in the secretory pathway  the role of calreticulin  calnexin and BiP in the retention of glycoproteins with C-terminal truncations"	1997	176

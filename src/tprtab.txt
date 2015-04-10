@@ -1,0 +1,31 @@
+"First.Author"	"Title"	"Pub.Year"	"No.Cites"
+"1"	"LH Boyle"	"Tapasin-related protein TAPBPR is an additional component of the MHC class I presentation pathway"	2013	11
+"2"	"MS Teng"	" A human TAPBP  TAPASIN  related gene  TAPBP R"	2002	27
+"3"	"ED Landis"	"Identification and regulatory analysis of rainbow trout tapasin and tapasin-related genes"	2006	23
+"4"	"S Hulpke"	"The MHC I loading complex  a multitasking machinery in adaptive immunity"	2013	21
+"5"	"SI van Kasteren"	"Chemical biology of antigen presentation by MHC molecules"	2014	6
+"6"	"C Hermann"	"The binding of TAPBPR and tapasin to MHC class I is mutually exclusive"	2013	2
+"7"	"E Kosunen - Scandinavian journal of primary health care"	" 18th Nordic Congress of General Practice 2013-focus on patient orientation"	2013	1
+"8"	"G Morozov"	"Tapasin-related protein TAPBPR interacts directly with peptide-free MHC-I/ 2-microgolbulin complexes  APP3P  101 "	2014	NA
+"9"	"L Boyle"	" CITATION  C  The tapasin-related protein TAPBPR modulates the ER export rate of MHC class I"	2012	NA
+"10"	"L Boyle"	"The tapasin-related protein TAPBPR is a new component of the MHC class I presentation pathway  P5000 "	2013	NA
+"11"	"C Hermann"	" CITATION  C  Structure and function of TAPBPR and its interaction partners"	2012	NA
+"12"	"T Flinsenberg"	" CITATION  C  The role of Fc-receptors in antigen cross-presentation by human dendritic cell subsets"	2012	NA
+"13"	"M Bouvier"	" CITATION  C  Suppression of antigen presentation by the adenovirus E3-19 K protein  a crystallographic analysis of E3-19 K/MHC I interaction"	2012	NA
+"14"	"C Hermann"	" TAPBPR and tapasin binding to MHC class I is mutually exclusive"	2013	NA
+"15"	"M Rausch"	" CITATION  C  GILT modulates CD4+ T cell tolerance to cutaneous autoantigen TRP1"	2012	NA
+"16"	"KM Porter"	" TAPBPR isoforms exhibit altered association with MHC class I"	2014	1
+"17"	"M Heuze"	" CITATION  C  Invariant Chain orchestrates antigen uptake and motility in dendritic cells"	2012	NA
+"18"	"E Compeer"	" CITATION  C  Remodeling of the endosomal pathway during antigen cross-presentation by human dendritic cells"	2012	NA
+"19"	"A Niepel"	" CITATION  C  Human cytomegalovirus  HCMV  inhibits MHC class I recruitment to the peptide loading complex  PLC "	2012	NA
+"20"	"KL Rock"	" Antigen processing and presentation  WS-026  Chairpersons  Heiichiro Udono  Kenneth Rock"	2010	NA
+"21"	"APCP by Class - Molecular Immunology"	" CITATION  C  7 th Biannual workshop in antigen presentation April 24-27  2012 Amsterdam  The Netherlands"	NA	NA
+"22"	"C Hermann"	"TAPBPR  a new player in the MHC class I presentation pathway"	2015	NA
+"23"	"J Kaufman - Current opinion in immunology"	"What chickens would tell you about the evolution of antigen processing and presentation"	2015	NA
+"24"	"S Springer - Current opinion in immunology"	"Transport and quality control of MHC class I molecules in the early secretory pathway"	2015	NA
+"25"	"A Bailey"	" Two polymorphisms facilitate differences in plasticity between two chicken major histocompatibility complex class I proteins"	2014	4
+"26"	"SS Shishkin"	"AGR2  ERp57/GRP58  and some other human protein disulfide isomerases"	2013	NA
+"27"	"KL Rock"	" 8th International Workshop on Antigen Processing and Presentation  held June 10th 13th  2014 in Philadelphia  PA  USA"	NA	NA
+"28"	"QR Chen"	" Systematic genetic analysis identifies Cis-eQTL target genes associated with glioblastoma patient survival"	2014	4
+"29"	"T Griseri"	"Workshop  Myeloid Cell Development"	2012	NA
+"30"	"<U+0421><U+0421> <U+0428><U+0418><U+0428><U+041A><U+0418><U+041D>"	" AGR2  ERP57/GRP58                           -                           "	NA	NA
