@@ -1,31 +1,31 @@
 "First.Author"	"Title"	"Pub.Year"	"No.Cites"
-"1"	"PJ Bjorkman"	" Structure of the human class I histocompatibility antigen  HLA-A 2"	1987	3324
+"1"	"PJ Bjorkman"	"Structure of the human class I histocompatibility antigen  HLA-A 2"	1987	3327
 "2"	"ACM Young"	"The three-dimensional structure of H-2D b at 2 4 Å resolution  implications for antigen-determinant selection"	1994	249
 "3"	"TNM Schumacher"	"Direct binding of peptide to empty MHC class I molecules on intact cells and in vitro"	1990	361
 "4"	"ML Silver"	"Atomic structure of a human MHC molecule presenting an influenza virus peptide"	1992	255
-"5"	"W Zhang"	"Crystal structure of the major histocompatibility complex class I H-2Kb molecule containing a single viral peptide  implications for peptide binding and T-cell receptor   "	1992	297
+"5"	"W Zhang"	"Crystal structure of the major histocompatibility complex class I H-2Kb molecule containing a single viral peptide  implications for peptide binding and T-cell receptor"	1992	297
 "6"	"JA Lopez de Castro"	"Primary structure of papain-solubilized human histocompatibility antigen HLA-B40  -Bw60   An outline of alloantigenic determinants"	1983	37
 "7"	"MH Smith"	"Peptide sequences binding to MHC class I proteins"	1994	30
-"8"	"K Natarajan"	"MHC class I molecules  structure and function "	1998	73
-"9"	"J STROMINGER"	" CITATION  C  Three-Dimensional Structure of the Human Class 11 Histocompatibility Antigen HLA-DRl"	NA	7
-"10"	"KC Parker"	"The beta 2-microglobulin dissociation rate is an accurate measure of the stability of MHC class I heterotrimers and depends on which peptide is bound "	1992	101
+"8"	"K Natarajan"	"MHC class I molecules  structure and function"	1998	74
+"9"	"J STROMINGER"	"C  Three-Dimensional Structure of the Human Class 11 Histocompatibility Antigen HLA-DRl"	NA	7
+"10"	"KC Parker"	"The beta 2-microglobulin dissociation rate is an accurate measure of the stability of MHC class I heterotrimers and depends on which peptide is bound"	1992	101
 "11"	"JA Berzofsky - Annals of the New York Academy of Sciences"	"Epitope Selection and Design of Synthetic Vaccines Molecular Approaches to Enhancing Immunogenicity and Cross Reactivity of Engineered Vaccines"	1993	45
 "12"	"Y Umezawa"	"CH/  interactions in the crystal structure of class I MHC antigens and their complexes with peptides"	1998	67
-"13"	"AG Brooks"	"Natural killer cell recognition of HLA class I molecules "	1999	35
+"13"	"AG Brooks"	"Natural killer cell recognition of HLA class I molecules"	1999	35
 "14"	"O Mandelboim"	"CTL induction by a tumour-associated antigen octapeptide derived from a murine lung carcinoma"	1994	268
 "15"	"PJR Goulder"	"Potential underestimation of HLA C restricted cytotoxic T lymphocyte responses"	1997	23
 "16"	"GS Ogg"	"Decay kinetics of human immunodeficiency virus-specific effector cytotoxic T lymphocytes after combination antiretroviral therapy"	1999	354
 "17"	"N Frahm"	"HLA-B63 presents HLA-B57/B58-restricted cytotoxic T-lymphocyte epitopes and is associated with low human immunodeficiency virus load"	2005	78
-"18"	"B Seliger"	"Suppression of MHC class I antigens in oncogenic transformants  association with decreased recognition by cytotoxic T lymphocytes "	1996	35
+"18"	"B Seliger"	"Suppression of MHC class I antigens in oncogenic transformants  association with decreased recognition by cytotoxic T lymphocytes"	1996	35
 "19"	"M Sekimata"	"Isolation of human minor histocompatibility peptides"	1992	26
-"20"	"H Nojima"	"Dynamic characteristics of a peptide-binding groove of human HLA-A2 class I MHC molecules  normal mode analysis of the antigen peptide-class I MHC complex "	2002	13
+"20"	"H Nojima"	"Dynamic characteristics of a peptide-binding groove of human HLA-A2 class I MHC molecules  normal mode analysis of the antigen peptide-class I MHC complex"	2002	13
 "21"	"JA Haefliger"	"Structural and functional characterization of complement C8   a member of the lipocalin protein family"	1991	31
 "22"	"ML Silver"	"Reconstitution by MHC-restricted peptides of HLA-A2 heavy chain with  2-microglobulin  in vitro"	1991	107
 "23"	"LC Tisi"	"Conserved structural features on protein surfaces  small exterior hydrophobic clusters"	1995	35
-"24"	"I Bjorkman - Nature"	" CITATION  C  J   MA SAPER  B  SAMRAOUI  WS BENNETT  JL STROMINGER  and DC Wiley  1987   Structure of the human class I histocompatibility antigen  HLA-A2"	NA	14
+"24"	"I Bjorkman - Nature"	"C  J   MA SAPER  B  SAMRAOUI  WS BENNETT  JL STROMINGER  and DC Wiley  1987   Structure of the human class I histocompatibility antigen  HLA-A2"	NA	14
 "25"	"GB Lipford"	"In vivo CTL induction with point-substituted ovalbumin peptides  immunogenicity correlates with peptide-induced MHC class I stability"	1995	49
-"26"	"F Sieker"	" Comparative molecular dynamics analysis of tapasin dependent and independent MHC class I alleles"	2007	33
+"26"	"F Sieker"	"Comparative molecular dynamics analysis of tapasin dependent and independent MHC class I alleles"	2007	33
 "27"	"C Rosano"	"The three-dimensional structure of  2 microglobulin  results from X-ray crystallography"	2005	20
 "28"	"T Tsukamoto"	"Determination of a major histocompatibility complex class I restricting simian immunodeficiency virus Gag241 249 epitope"	2008	9
-"29"	"J Ruppert"	"Class I MHC-peptide interaction  structural and functional aspects "	1994	19
-"30"	"D Hanau"	"CD1 expression is not affected by human peptide transporter deficiency"	1994	26
+"29"	"J Ruppert"	"Class I MHC-peptide interaction  structural and functional aspects"	1994	19
+"30"	"D Hanau"	"CD1 expression is not affected by human peptide transporter deficiency"	1994	27

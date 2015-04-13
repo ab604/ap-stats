@@ -1,10 +1,10 @@
 "First.Author"	"Title"	"Pub.Year"	"No.Cites"
 "1"	"JD Oliver"	"Interaction of the thiol-dependent reductase ERp57 with nascent glycoproteins"	1997	347
-"2"	"NA Morrice"	" A role for the thiol-dependent reductase ERp57 in the assembly of MHC class I molecules"	1998	145
+"2"	"NA Morrice"	"A role for the thiol-dependent reductase ERp57 in the assembly of MHC class I molecules"	1998	145
 "3"	"N Hirano"	"Molecular Cloning of the Human Glucose Regulated Protein ERp57/GRP58  a Thiol Dependent Reductase"	1995	126
 "4"	"JG Elliott"	"The thiol-dependent reductase ERp57 interacts specifically with N-glycosylated integral membrane proteins"	1997	124
 "5"	"AN Antoniou"	"The oxidoreductase ERp57 efficiently reduces partially folded in preference to fully folded MHC class I molecules"	2002	101
-"6"	"EA Hughes"	" The thiol oxidoreductase ERp57 is a component of the MHC class I peptide-loading complex"	1998	191
+"6"	"EA Hughes"	"The thiol oxidoreductase ERp57 is a component of the MHC class I peptide-loading complex"	1998	191
 "7"	"JD Oliver"	"ERp57 functions as a subunit of specific complexes formed with the ER lectins calreticulin and calnexin"	1999	272
 "8"	"JA Lindquist"	"ER 60  a chaperone with thiol dependent reductase activity involved in MHC class I assembly"	1998	228
 "9"	"L Ellgaard"	"Calnexin  calreticulin  and ERp57"	2003	142
@@ -19,13 +19,13 @@
 "18"	"MR Harris"	"Association of ERp57 with mouse MHC class I molecules is tapasin dependent and mimics that of calreticulin and not calnexin"	2001	53
 "19"	"MR Farmery"	"The role of ERp57 in disulfide bond formation during the assembly of major histocompatibility complex class I in a synchronized semipermeabilized cell translation   "	2000	95
 "20"	"S Schulman"	"Vitamin K epoxide reductase prefers ER membrane-anchored thioredoxin-like redox partners"	2010	68
-"21"	"G Kozlov"	" Crystal structure of the bb  domains of the protein disulfide isomerase ERp57"	2006	92
+"21"	"G Kozlov"	"Crystal structure of the bb  domains of the protein disulfide isomerase ERp57"	2006	92
 "22"	"A Kienast"	"Redox regulation of peptide receptivity of major histocompatibility complex class I molecules by ERp57 and tapasin"	2007	82
-"23"	"SM Beynon-Jones"	" Mutational analysis of the oxidoreductase ERp57 reveals the importance of the two central residues in the redox motif"	2006	11
+"23"	"SM Beynon-Jones"	"Mutational analysis of the oxidoreductase ERp57 reveals the importance of the two central residues in the redox motif"	2006	11
 "24"	"C Grillo"	"Cooperative activity of Ref-1/APE and ERp57 in reductive activation of transcription factors"	2006	44
-"25"	"E Gaucci"	" The binding of antibiotics to ERp57/GRP58"	2008	6
+"25"	"E Gaucci"	"The binding of antibiotics to ERp57/GRP58"	2008	6
 "26"	"Y Sugiura"	"Novel thioredoxin-related transmembrane protein TMX4 has reductase activity"	2010	16
 "27"	"H Coe"	"ERp57  a multifunctional endoplasmic reticulum resident oxidoreductase"	2010	63
-"28"	"CE Jessop"	" ERp57 is essential for efficient folding of glycoproteins sharing common structural domains"	2007	117
+"28"	"CE Jessop"	"ERp57 is essential for efficient folding of glycoproteins sharing common structural domains"	2007	117
 "29"	"AN Antoniou"	"Characterization of the ERp57-Tapasin complex by rapid cellular acidification and thiol modification"	2003	27
 "30"	"M Eufemi"	"ERp57 is present in STAT3 DNA complexes"	2004	45

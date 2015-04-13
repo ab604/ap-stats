@@ -3,26 +3,26 @@
 "2"	"MG Coppolino"	"Calreticulin is essential for integrin-mediated calcium signalling and cell adhesion"	1997	353
 "3"	"M Obeid"	"Calreticulin exposure dictates the immunogenicity of cancer cell death"	2007	1007
 "4"	"S Dedhar"	"Inhibition of nuclear hormone receptor activity by calreticulin"	1994	350
-"5"	"S Basu"	" CD91 is a common receptor for heat shock proteins gp96  hsp90  hsp70  and calreticulin"	2001	1016
+"5"	"S Basu"	"CD91 is a common receptor for heat shock proteins gp96  hsp90  hsp70  and calreticulin"	2001	1016
 "6"	"CA Ogden"	"C1q and mannose binding lectin engagement of cell surface calreticulin and CD91 initiates macropinocytosis and uptake of apoptotic cells"	2001	926
-"7"	"B Sadasivan"	" Roles for calreticulin and a novel glycoprotein  tapasin  in the interaction of MHC class I molecules with TAP"	1996	640
-"8"	"SJ Gardai"	" Cell-surface calreticulin initiates clearance of viable or apoptotic cells through trans-activation of LRP on the phagocyte"	2005	598
+"7"	"B Sadasivan"	"Roles for calreticulin and a novel glycoprotein  tapasin  in the interaction of MHC class I molecules with TAP"	1996	641
+"8"	"SJ Gardai"	"Cell-surface calreticulin initiates clearance of viable or apoptotic cells through trans-activation of LRP on the phagocyte"	2005	598
 "9"	"M Michalak"	"Calreticulin  one protein  one gene  many functions"	1999	618
-"10"	"M Michalak"	" Calreticulin "	1992	466
-"11"	"SJ Gardai"	" By binding SIRP  or calreticulin/CD91  lung collectins act as dual function surveillance molecules to suppress or enhance inflammation"	2003	546
+"10"	"M Michalak"	"Calreticulin "	1992	466
+"11"	"SJ Gardai"	"By binding SIRP  or calreticulin/CD91  lung collectins act as dual function surveillance molecules to suppress or enhance inflammation"	2003	546
 "12"	"A Helenius"	"Calnexin  calreticulin and the folding of glycoproteins"	1997	385
 "13"	"RW Vandivier"	"Role of surfactant proteins A  D  and C1q in the clearance of apoptotic cells in vivo and in vitro  calreticulin and CD91 as a common collectin receptor complex"	2002	425
-"14"	"KH Krause"	" CITATION  C  Calreticulin"	1997	313
-"15"	"P Camacho"	" Calreticulin inhibits repetitive intracellular Ca 2+ waves"	1995	234
+"14"	"KH Krause"	" C  Calreticulin"	1997	313
+"15"	"P Camacho"	"Calreticulin inhibits repetitive intracellular Ca 2+ waves"	1995	234
 "16"	"N Mesaeli"	"Calreticulin is essential for cardiac development"	1999	422
 "17"	"A Zapun"	"Enhanced catalysis of ribonuclease B folding by the interaction of calnexin or calreticulin with ERp57"	1998	312
 "18"	"S Dedhar - Trends in biochemical sciences"	"Novel functions for calreticulin  interaction with integrins and modulation of gene expression?"	1994	154
-"19"	"L Fliegel"	"Molecular cloning of the high affinity calcium-binding protein  calreticulin  of skeletal muscle sarcoplasmic reticulum "	1989	376
+"19"	"L Fliegel"	"Molecular cloning of the high affinity calcium-binding protein  calreticulin  of skeletal muscle sarcoplasmic reticulum "	1989	377
 "20"	"H Liu"	"Endoplasmic reticulum chaperones GRP78 and calreticulin prevent oxidative stress  Ca2+ disturbances  and cell death in renal epithelial cells"	1997	361
 "21"	"SE Pike"	"Vasostatin  a calreticulin fragment  inhibits angiogenesis and suppresses tumor growth"	1998	323
 "22"	"S Johnson"	"The ins and outs of calreticulin  from the ER lumen to the extracellular space"	2001	295
 "23"	"MJ Smith"	"Multiple zones in the sequence of calreticulin  CRP55  calregulin  HACBP   a major calcium binding ER/SR protein "	1989	255
-"24"	"S Baksh"	"Expression of calreticulin in Escherichia coli and identification of its Ca2+ binding domains "	1991	290
+"24"	"S Baksh"	"Expression of calreticulin in Escherichia coli and identification of its Ca2+ binding domains "	1991	292
 "25"	"DB Williams - Journal of cell science"	"Beyond lectins  the calnexin/calreticulin chaperone system of the endoplasmic reticulum"	2006	290
 "26"	"JD Oliver"	"ERp57 functions as a subunit of specific complexes formed with the ER lectins calreticulin and calnexin"	1999	272
 "27"	"RG Spiro"	"Definition of the lectin-like properties of the molecular chaperone  calreticulin  and demonstration of its copurification with endomannosidase from rat liver Golgi"	1996	254

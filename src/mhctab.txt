@@ -6,25 +6,25 @@
 "5"	"W Zhang"	"Crystal structure of the major histocompatibility complex class I H-2Kb molecule containing a single viral peptide  implications for peptide binding and T-cell receptor   "	1992	297
 "6"	"MC Carroll"	"A molecular map of the human major histocompatibility complex class III region linking complement genes C4  C2 and factor B "	1983	370
 "7"	"BR Mothé"	"Expression of the major histocompatibility complex class I molecule Mamu-A  01 is associated with control of simian immunodeficiency virus SIVmac239 replication"	2003	176
-"8"	"D Pende"	"Major Histocompatibility Complex Class I-related Chain A and UL16-Binding Protein Expression on Tumor Cell Lines of Different Histotypes Analysis of Tumor   "	2002	466
+"8"	"D Pende"	"Major Histocompatibility Complex Class I-related Chain A and UL16-Binding Protein Expression on Tumor Cell Lines of Different Histotypes Analysis of Tumor   "	2002	467
 "9"	"SK Sanders"	"Cell-cell adhesion mediated by CD8 and human histocompatibility leukocyte antigen G  a nonclassical major histocompatibility complex class 1 molecule on   "	1991	115
-"10"	"A Gallimore"	"   of lymphocytic choriomeningitis virus specific cytotoxic T lymphocytes visualized using soluble tetrameric major histocompatibility complex class I peptide complexes"	1998	477
-"11"	"SJ Powis"	"Effect of polymorphism of an MHC-linked transporter on the peptides assembled in a class I molecule "	1992	320
-"12"	"GB Cohen"	" The selective downregulation of class I major histocompatibility complex proteins by HIV-1 protects HIV-infected cells from NK cells"	1999	715
+"10"	"A Gallimore"	"   of lymphocytic choriomeningitis virus specific cytotoxic T lymphocytes visualized using soluble tetrameric major histocompatibility complex class I peptide complexes"	1998	478
+"11"	"SJ Powis"	"Effect of polymorphism of an MHC-linked transporter on the peptides assembled in a class I molecule "	1992	321
+"12"	"GB Cohen"	"The selective downregulation of class I major histocompatibility complex proteins by HIV-1 protects HIV-infected cells from NK cells"	1999	715
 "13"	"TR Jones"	"Human cytomegalovirus US3 impairs transport and maturation of major histocompatibility complex class I heavy chains"	1996	405
-"14"	"A Townsend"	" Association of class I major histocompatibility heavy and light chains induced by viral peptides"	1989	983
+"14"	"A Townsend"	"Association of class I major histocompatibility heavy and light chains induced by viral peptides"	1989	983
 "15"	"EA Hughes"	"Misfolded major histocompatibility complex class I heavy chains are translocated into the cytoplasm and degraded by the proteasome"	1997	269
 "16"	"A Craiu"	"Two distinct proteolytic processes in the generation of a major histocompatibility complex class I-presented peptide"	1997	253
 "17"	"V Cerundolo"	"Presentation of viral antigen controlled by a gene in the major histocompatibility complex"	1990	369
 "18"	"R Thäle"	"Identification of the mouse cytomegalovirus genomic region affecting major histocompatibility complex class I molecule transport "	1995	95
-"19"	"SN Ho"	"Site-directed mutagenesis by overlap extension using the polymerase chain reaction"	1989	6963
+"19"	"SN Ho"	"Site-directed mutagenesis by overlap extension using the polymerase chain reaction"	1989	6966
 "20"	"I Medana"	"Transection of major histocompatibility complex class I-induced neurites by cytotoxic T lymphocytes"	2001	253
-"21"	"K Triantafilou"	"GRP78  a coreceptor for coxsackievirus A9  interacts with major histocompatibility complex class I molecules which mediate virus internalization"	2002	125
+"21"	"K Triantafilou"	"GRP78  a coreceptor for coxsackievirus A9  interacts with major histocompatibility complex class I molecules which mediate virus internalization"	2002	126
 "22"	"MH Furman"	"The human cytomegalovirus US10 gene product delays trafficking of major histocompatibility complex class I molecules"	2002	92
 "23"	"MR Jackson"	"Empty and peptide-containing conformers of class I major histocompatibility complex molecules expressed in Drosophila melanogaster cells"	1992	146
 "24"	"J Michaëlsson"	"Visualization of inhibitory Ly49 receptor specificity with soluble major histocompatibility complex class I tetramers"	2000	79
 "25"	"RE Brown"	"The major histocompatibility complex and the chemosensory recognition of individuality in rats"	1987	154
-"26"	"PM Day"	" Effect of TAP on the generation and intracellular trafficking of peptide-receptive major histocompatibility complex class I molecules"	1995	77
+"26"	"PM Day"	"Effect of TAP on the generation and intracellular trafficking of peptide-receptive major histocompatibility complex class I molecules"	1995	77
 "27"	"CC Leong"	"Modulation of natural killer cell cytotoxicity in human cytomegalovirus infection  the role of endogenous class I major histocompatibility complex and a viral class I   "	1998	187
 "28"	"GM Van Bleek"	"The structure of the antigen-binding groove of major histocompatibility complex class I molecules determines specific selection of self-peptides"	1991	95
 "29"	"E Sadovnikova"	"Peptide-specific cytotoxic T lymphocytes restricted by nonself major histocompatibility complex class I molecules  reagents for tumor immunotherapy"	1996	113

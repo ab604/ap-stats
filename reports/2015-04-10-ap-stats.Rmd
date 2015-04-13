@@ -1,7 +1,11 @@
 ---
+title: "Antigen processing on Google Scholar"
+output:
+html_document:
+keep_md: yes
+toc: yes
+toc_depth: 2
 layout: page
-title: Antigen processing on Google Scholar
-output: html_document
 ---
 
 This ended up being is as much about what scraping data from Google Scholar 
@@ -124,85 +128,98 @@ print(mhc.median)
 ```{r,echo=FALSE}
 library(DT)
 erapt <- read.table("../src/eraptab.txt")
-datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year',
+                              'No. of Citations'),rownames = FALSE)
+         
 ```
 
 ####Tapasin
 
 ```{r,echo=FALSE}
 library(DT)
-erapt <- read.table("../src/tpntab.txt")
-datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+tpnt <- read.table("../src/tpntab.txt")
+datatable(tpnt, colnames = c('First Author', 'Paper Title', 'Publication Year',
+                              'No. of Citations'),rownames = FALSE)
 ```
 
 ####MHC I molecule
 
 ```{r,echo=FALSE}
 library(DT)
-erapt <- read.table("../src/moltab.txt")
-datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+molt <- read.table("../src/moltab.txt")
+datatable(molt, colnames = c('First Author', 'Paper Title', 'Publication Year',
+                              'No. of Citations'),rownames = FALSE)
+          
 ```
 
 ####Calreticulin
 
 ```{r,echo=FALSE}
 library(DT)
-erapt <- read.table("../src/cartab.txt")
-datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+calt <- read.table("../src/cartab.txt")
+datatable(calt, colnames = c('First Author', 'Paper Title', 'Publication Year',
+                              'No. of Citations'),rownames = FALSE)
 ```
 
 ####Erp57
 
 ```{r,echo=FALSE}
 library(DT)
-erapt <- read.table("../src/erptab.txt")
-datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+erpt <- read.table("../src/erptab.txt")
+datatable(erpt, colnames = c('First Author', 'Paper Title', 'Publication Year',                               
+                              'No. of Citations'),rownames = FALSE)
 ```
 
 ####Calnexin
 
 ```{r,echo=FALSE}
 library(DT)
-erapt <- read.table("../src/clntab.txt")
-datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+calt <- read.table("../src/clntab.txt")
+datatable(calt, colnames = c('First Author', 'Paper Title', 'Publication Year',                               
+                              'No. of Citations'),rownames = FALSE)
 ```
 
 ####TAPBPR
 
 ```{r,echo=FALSE}
 library(DT)
-erapt <- read.table("../src/tprtab.txt")
-datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+tprt <- read.table("../src/tprtab.txt")
+datatable(tprt, colnames = c('First Author', 'Paper Title', 'Publication Year',                               
+                              'No. of Citations'),rownames = FALSE)
 ```
 
 ####UGGT
 
 ```{r,echo=FALSE}
 library(DT)
-erapt <- read.table("../src/ugtab.txt")
-datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+uggt <- read.table("../src/ugtab.txt")
+datatable(uggt, colnames = c('First Author', 'Paper Title', 'Publication Year',                               
+                              'No. of Citations'),rownames = FALSE)
 ```
 
 ####MHC I structure
 
 ```{r,echo=FALSE}
 library(DT)
-erapt <- read.table("../src/sructab.txt")
-datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+struct <- read.table("../src/sructab.txt")
+datatable(struct, colnames = c('First Author', 'Paper Title', 'Publication Year',                               
+                              'No. of Citations'),rownames = FALSE)
 ```
 
 ####MHC I conformational change
 
 ```{r,echo=FALSE}
 library(DT)
-erapt <- read.table("../src/conftab.txt")
-datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+conft <- read.table("../src/conftab.txt")
+datatable(conft, colnames = c('First Author', 'Paper Title', 'Publication Year',                               
+                              'No. of Citations'),rownames = FALSE)
 ```
 
-###MHC I peptide reportoire
+####MHC I peptide reportoire
 
 ```{r,echo=FALSE}
 library(DT)
-erapt <- read.table("../src/peptab.txt")
-datatable(erapt, colnames = c('First Author', 'Paper Title', 'Publication Year', 'No. of Citations'))
+pept <- read.table("../src/peptab.txt")
+datatable(pept, colnames = c('First Author', 'Paper Title', 'Publication Year',                               
+                              'No. of Citations'),rownames = FALSE)
 ```

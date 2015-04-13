@@ -9,10 +9,18 @@ ap.proc = vector(mode="list",length=nt)
 for(j in 1:nt){
         ap.proc[j] <- na.omit(ap.term_data[j])
         ap.proc[[j]]$title <- enc2utf8(ap.proc[[j]]$title)
+        ap.proc[[j]]$first.author <- enc2utf8(ap.proc[[j]]$first.author)
         ap.proc[[j]]$title <- gsub("\\[HTML\\]", "", ap.proc[[j]]$title)
+        ap.proc[[j]]$title <- gsub("\\[CITATION\\]", "", ap.proc[[j]]$title)
         ap.proc[[j]]$title <- gsub("\\[PDF\\]", "", ap.proc[[j]]$title)
+        ap.proc[[j]]$title <- gsub("^\\s+|\\s+$", "", ap.proc[[j]]$title)
+        ap.proc[[j]]$title <- gsub("^ C", "", ap.proc[[j]]$title)
         ap.proc[[j]]$title <- gsub( "[^[:alnum:][:blank:]+?&/\\-]", " "
                                     ,ap.proc[[j]]$title)
+        ap.proc[[j]]$first.author <- gsub( "[^[:alnum:][:blank:]+?&/\\-]", " "
+                                    ,ap.proc[[j]]$first.author)
+        ap.proc[[j]]$cites[is.na(ap.proc[[j]]$cites)] <- 0
+        
 }
 
 # Write tables
@@ -64,10 +72,18 @@ m.proc = vector(mode="list",length=nm)
 for(j in 1:nm){
         m.proc[j] <- na.omit(mhc.term_data[j])
         m.proc[[j]]$title <- enc2utf8(m.proc[[j]]$title)
+        m.proc[[j]]$first.author <- enc2utf8(m.proc[[j]]$first.author)
+        m.proc[[j]]$title <- gsub("\\[CITATION\\]", "", m.proc[[j]]$title)
         m.proc[[j]]$title <- gsub("\\[HTML\\]", "", m.proc[[j]]$title)
         m.proc[[j]]$title <- gsub("\\[PDF\\]", "", m.proc[[j]]$title)
         m.proc[[j]]$title <- gsub( "[^[:alnum:][:blank:]+?&/\\-]", " "
                                    ,m.proc[[j]]$title)
+        m.proc[[j]]$title <- gsub("^\\s+|\\s+$", "", m.proc[[j]]$title)
+        m.proc[[j]]$title <- gsub("^ C", "", m.proc[[j]]$title)
+        
+        m.proc[[j]]$first.author <- gsub( "[^[:alnum:][:blank:]+?&/\\-]", " "
+                                           ,m.proc[[j]]$first.author)
+        m.proc[[j]]$cites[is.na(m.proc[[j]]$cites)] <- 0
 }
 # Write tables
 mol.tab <- data.frame(First.Author=m.proc[[1]]$first.author,

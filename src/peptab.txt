@@ -2,29 +2,29 @@
 "1"	"AW Purcell"	"Quantitative and qualitative influences of tapasin on the class I peptide repertoire"	2001	143
 "2"	"ACM Young"	"The three-dimensional structure of H-2D b at 2 4 Å resolution  implications for antigen-determinant selection"	1994	249
 "3"	"E Sadovnikova"	"Peptide-specific cytotoxic T lymphocytes restricted by nonself major histocompatibility complex class I molecules  reagents for tumor immunotherapy"	1996	113
-"4"	"J Nikolic-Z"	"Role of self-peptides in positively selecting the T-cell repertoire"	1990	294
+"4"	"J Nikoli -Z"	"Role of self-peptides in positively selecting the T-cell repertoire"	1990	294
 "5"	"TNM Schumacher"	"Direct binding of peptide to empty MHC class I molecules on intact cells and in vitro"	1990	361
 "6"	"DH Busch"	"MHC class I/peptide stability  implications for immunodominance  in vitro proliferation  and diversity of responding CTL"	1998	139
-"7"	"P Bowness"	"  B27 restricted influenza specific cytotoxic T lymphocytes suggests a general pattern for antigen specific major histocompatibility complex class I restricted responses"	1993	113
-"8"	"J Sidney"	" HLA class I supertypes  a revised and updated classification"	2008	227
-"9"	"W Chen"	"Modification of cysteine residues in vitro and in vivo affects the immunogenicity and antigenicity of major histocompatibility complex class I restricted viral   "	1999	96
-"10"	"MA Gavin"	" Increased peptide promiscuity provides a rationale for the lack of N regions in the neonatal T cell repertoire"	1995	98
+"7"	"P Bowness"	"B27 restricted influenza specific cytotoxic T lymphocytes suggests a general pattern for antigen specific major histocompatibility complex class I restricted responses"	1993	113
+"8"	"J Sidney"	"HLA class I supertypes  a revised and updated classification"	2008	228
+"9"	"W Chen"	"Modification of cysteine residues in vitro and in vivo affects the immunogenicity and antigenicity of major histocompatibility complex class I restricted viral"	1999	97
+"10"	"MA Gavin"	"Increased peptide promiscuity provides a rationale for the lack of N regions in the neonatal T cell repertoire"	1995	98
 "11"	"DM Ojcius"	"Real time measurement of antigenic peptide binding to empty and preloaded single chain major histocompatibility complex class I molecules"	1993	27
 "12"	"BC Gil-Torregrosa"	"Major histocompatibility complex class I viral antigen processing in the secretory pathway defined by the trans-Golgi network protease furin"	1998	77
 "13"	"A Guimezanes"	"A viral peptide can mimic an endogenous peptide for allorecognition of a major histocompatibility complex class I product"	1992	35
 "14"	"N Shastri"	"Major histocompatibility class I molecules can present cryptic translation products to T-cells"	1995	42
-"15"	"R Meijers"	"Crystal structures of murine MHC Class I H-2 D b and K b molecules in complex with CTL epitopes from influenza A virus  implications for TCR repertoire selection and  "	2005	37
-"16"	"DA Ostrov"	"Drug hypersensitivity caused by alteration of the MHC-presented self-peptide repertoire"	2012	85
+"15"	"R Meijers"	"Crystal structures of murine MHC Class I H-2 D b and K b molecules in complex with CTL epitopes from influenza A virus  implications for TCR repertoire selection and"	2005	37
+"16"	"DA Ostrov"	"Drug hypersensitivity caused by alteration of the MHC-presented self-peptide repertoire"	2012	86
 "17"	"K Udaka"	"Tolerance to amino acid variations in peptides binding to the major histocompatibility complex class I protein H-2Kb"	1995	56
 "18"	"YC Liu"	"The energetic basis underpinning T-cell receptor recognition of a super-bulged peptide bound to a major histocompatibility complex class I molecule"	2012	16
-"19"	"BC Gil-Torregrosa"	"Generation of MHC class I peptide antigens by protein processing in the secretory route by furin"	2000	47
+"19"	"BC Gil Torregrosa"	"Generation of MHC class I peptide antigens by protein processing in the secretory route by furin"	2000	47
 "20"	"PG Ashton-Rickardt"	"Evidence for a differential avidity model of T cell selection in the thymus"	1994	680
 "21"	"SB Qian"	"Tight linkage between translation and MHC class I peptide ligand generation implies specialized antigen processing for defective ribosomal products"	2006	59
-"22"	"M Andrieu"	"Short Communication  Downregulation of Major Histocompatibility Class I on Human Dendritic Cells by HIV Nef Impairs Antigen Presentation to HIV-Specific CD8+ T   "	2001	50
-"23"	"GF Gao"	"Classical and nonclassical class I major histocompatibility complex molecules exhibit subtle conformational differences that affect binding to CD8  "	2000	100
+"22"	"M Andrieu"	"Short Communication  Downregulation of Major Histocompatibility Class I on Human Dendritic Cells by HIV Nef Impairs Antigen Presentation to HIV-Specific CD8+ T"	2001	50
+"23"	"GF Gao"	"Classical and nonclassical class I major histocompatibility complex molecules exhibit subtle conformational differences that affect binding to CD8"	2000	100
 "24"	"PA Wentworth"	"Differences and similarities in the A2  1 restricted cytotoxic T cell repertoire in humans and human leukocyte antigen transgenic mice"	1996	144
 "25"	"KD Moudgil"	"Processing of self-proteins and its impact on shaping the T cell repertoire  autoimmunity and immune regulation"	1993	23
-"26"	"VP Badovinac"	"Regulation of antigen-specific CD8+ T cell homeostasis by perforin and interferon- "	2000	442
+"26"	"VP Badovinac"	"Regulation of antigen-specific CD8+ T cell homeostasis by perforin and interferon-"	2000	442
 "27"	"ZW Chen"	"The TCR repertoire of an immunodominant CD8+ T lymphocyte population"	2001	55
 "28"	"N Cereb"	"Locus-specific conservation of the HLA class I introns by intra-locus homogenization"	1997	61
 "29"	"BR Mothé"	"Expression of the major histocompatibility complex class I molecule Mamu-A  01 is associated with control of simian immunodeficiency virus SIVmac239 replication"	2003	176

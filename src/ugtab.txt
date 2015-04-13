@@ -1,10 +1,10 @@
 "First.Author"	"Title"	"Pub.Year"	"No.Cites"
 "1"	"K Totani"	"Synthetic Substrates for an Endoplasmic Reticulum Protein Folding Sensor  UDP Glucose  Glycoprotein Glucosyltransferase"	2005	60
-"2"	"SC Taylor"	" Glycopeptide specificity of the secretory protein folding sensor UDP glucose glycoprotein  glucosyltransferase"	2003	66
+"2"	"SC Taylor"	"Glycopeptide specificity of the secretory protein folding sensor UDP glucose glycoprotein  glucosyltransferase"	2003	66
 "3"	"SC Taylor"	"The ER protein folding sensor UDP-glucose glycoprotein glucosyltransferase modifies substrates distant to local changes in glycoprotein conformation"	2004	83
 "4"	"MK Sethi"	"Identification of glycosyltransferase 8 family members as xylosyltransferases acting on O-glucosylated notch epidermal growth factor repeats"	2010	39
-"5"	"C D'Alessio"	"UDP-GlC  glycoprotein glucosyltransferase-glucosidase II  the ying-yang of the ER quality control"	2010	65
-"6"	"H Jin"	" Allele-specific suppression of a defective brassinosteroid receptor reveals a physiological role of UGGT in ER quality control"	2007	95
+"5"	"C D Alessio"	"UDP-GlC  glycoprotein glucosyltransferase-glucosidase II  the ying-yang of the ER quality control"	2010	65
+"6"	"H Jin"	"Allele-specific suppression of a defective brassinosteroid receptor reveals a physiological role of UGGT in ER quality control"	2007	95
 "7"	"DC Tessier"	"Cloning and characterization of mammalian UDP-glucose glycoprotein  glucosyltransferase and the development of a specific substrate for this enzyme"	2000	49
 "8"	"K Totani"	"The Recognition Motif of the Glycoprotein-Folding Sensor Enzyme UDP-Glc  Glycoprotein Glucosyltransferase "	2009	52
 "9"	"L Izquierdo"	"Trypanosoma brucei UDP-glucose  glycoprotein glucosyltransferase has unusual substrate specificity and protects the parasite from stress"	2009	20
@@ -12,20 +12,20 @@
 "11"	"M Sakono"	"Biophysical properties of UDP-glucose  glycoprotein glucosyltransferase  a folding sensor enzyme in the ER  delineated by synthetic probes"	2012	8
 "12"	"Y Takeda"	"Both isoforms of human UDP-glucose  glycoprotein glucosyltransferase are enzymatically active"	2014	13
 "13"	"HR Amouzadeh"	"UDP-glucose  glycoprotein glucosyltransferase associates with endoplasmic reticulum chaperones and its activity is decreased in vivo by the inhalation anesthetic   "	1997	9
-"14"	"MB Prados"	"    regulates the expression and activity of two mouse isoforms of the glycoprotein folding sensor UDP-Glc  Glycoprotein glucosyltransferase  UGGT "	2013	3
+"14"	"MB Prados"	"   regulates the expression and activity of two mouse isoforms of the glycoprotein folding sensor UDP-Glc  Glycoprotein glucosyltransferase  UGGT "	2013	3
 "15"	"GZ Lederkremer"	"A window of opportunity  timing protein degradation by trimming of sugars and ubiquitins"	2005	96
-"16"	"LI Buzzi"	" The two Caenorhabditis elegans UDP-glucose  glycoprotein glucosyltransferase homologues have distinct biological functions"	2011	9
+"16"	"LI Buzzi"	"The two Caenorhabditis elegans UDP-glucose  glycoprotein glucosyltransferase homologues have distinct biological functions"	2011	9
 "17"	"A Miyagawa"	"Promiscuous activity of ER glucosidase II discovered through donor specificity analysis of UGGT"	2010	5
 "18"	"JD Schrag"	"Lectin control of protein folding and sorting in the secretory pathway"	2003	174
 "19"	"B Kleizen"	"Protein folding and quality control in the endoplasmic reticulum"	2004	361
 "20"	"L Ellgaard"	"ER quality control  towards an understanding at the molecular level"	2001	396
-"21"	"M Izumi"	" CITATION  C  Misfolded glycoproteins as probes for analysis of folding sensor enzyme UDP-glucose  glycoprotein glucosyltransferase"	2013	2
-"22"	"RJ Kaufman - The Journal of clinical investigation"	" Orchestrating the unfolded protein response in health and disease"	2002	976
-"23"	"YO Nunez Lopez - 2009 - rucore.libraries.rutgers.edu"	"UDP-glucose glycoprotein glucosyltransferase  uggt-1  and UPR genes modulate C  elegans necrotic cell death"	2009	NA
-"24"	"Y Ito"	"Functional analysis of endoplasmic reticulum glucosyltransferase  UGGT   Synthetic chemistry s initiative in glycobiology"	2014	NA
-"25"	"Y Takeda"	" CITATION  C  Functional Analysis of Endoplasmic Reticulum Glucosyltransferase  UGGT  Using Synthetic Glycans"	2014	NA
-"26"	"YON Lopez - 2009 - Rutgers University"	" CITATION  C  UDP-glucose Glycoprotein Glucosyltransferase  uggt-1  and UPR Genes Modulate C  Elegans Necrotic Cell Death"	2009	NA
-"27"	"C D'Alessio"	"UDP-Glucose  Glycoprotein Glucosyltransferase in ER Glycoprotein Quality Control"	2015	NA
-"28"	"DC Tessier"	"Methods for screening UDP-glucose  glycoprotein glucosyltransferase  UGGT  activity and nucleic acid encoding for UGGT"	2002	NA
-"29"	"M Yazdani-Abyaneh… - ASH Annual  …"	"Proteins of the Calnexin Cycle Regulate  alpha  IIb 3 Surface Expression in Human Megakaryocyte-Lineage Cells "	2007	NA
-"30"	"T Zhu"	"    by the endoplasmic reticulum folding-sensor enzyme  crystal structure of third thioredoxin-like domain of UDP-glucose  glycoprotein glucosyltransferase"	2014	1
+"21"	"M Izumi"	" C  Misfolded glycoproteins as probes for analysis of folding sensor enzyme UDP-glucose  glycoprotein glucosyltransferase"	2013	2
+"22"	"RJ Kaufman - The Journal of clinical investigation"	"Orchestrating the unfolded protein response in health and disease"	2002	976
+"23"	"YO Nunez Lopez - 2009 - rucore libraries rutgers edu"	"UDP-glucose glycoprotein glucosyltransferase  uggt-1  and UPR genes modulate C  elegans necrotic cell death"	2009	0
+"24"	"Y Ito"	"Functional analysis of endoplasmic reticulum glucosyltransferase  UGGT   Synthetic chemistry s initiative in glycobiology"	2014	0
+"25"	"Y Takeda"	" C  Functional Analysis of Endoplasmic Reticulum Glucosyltransferase  UGGT  Using Synthetic Glycans"	2014	0
+"26"	"YON Lopez - 2009 - Rutgers University"	" C  UDP-glucose Glycoprotein Glucosyltransferase  uggt-1  and UPR Genes Modulate C  Elegans Necrotic Cell Death"	2009	0
+"27"	"C D Alessio"	"UDP-Glucose  Glycoprotein Glucosyltransferase in ER Glycoprotein Quality Control"	2015	0
+"28"	"DC Tessier"	"Methods for screening UDP-glucose  glycoprotein glucosyltransferase  UGGT  activity and nucleic acid encoding for UGGT"	2002	0
+"29"	"M Yazdani-Abyaneh  - ASH Annual   "	"Proteins of the Calnexin Cycle Regulate  alpha  IIb 3 Surface Expression in Human Megakaryocyte-Lineage Cells "	2007	0
+"30"	"T Zhu"	"   by the endoplasmic reticulum folding-sensor enzyme  crystal structure of third thioredoxin-like domain of UDP-glucose  glycoprotein glucosyltransferase"	2014	1
